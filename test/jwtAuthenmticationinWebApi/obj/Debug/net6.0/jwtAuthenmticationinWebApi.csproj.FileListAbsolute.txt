@@ -1,0 +1,120 @@
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.exe
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.deps.json
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.runtimeconfig.json
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.pdb
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.AssemblyReference.cache
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.AssemblyInfoInputs.cache
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.AssemblyInfo.cs
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.jwtAuthenmticationinWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.jwtAuthenmticationinWebApi.props
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.jwtAuthenmticationinWebApi.props
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.jwtAuthenmticationinWebApi.props
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\scopedcss\bundle\jwtAuthenmticationinWebApi.styles.css
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.CopyComplete
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\refint\jwtAuthenmticationinWebApi.dll
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.pdb
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.genruntimeconfig.cache
+C:\Users\Durga Anaparthi\source\repos\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\ref\jwtAuthenmticationinWebApi.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\appsettings.json
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.exe
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.deps.json
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.runtimeconfig.json
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.pdb
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.AssemblyReference.cache
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.AssemblyInfoInputs.cache
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.AssemblyInfo.cs
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.CoreCompileInputs.cache
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.jwtAuthenmticationinWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.jwtAuthenmticationinWebApi.props
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.jwtAuthenmticationinWebApi.props
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.jwtAuthenmticationinWebApi.props
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\scopedcss\bundle\jwtAuthenmticationinWebApi.styles.css
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.CopyComplete
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\refint\jwtAuthenmticationinWebApi.dll
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.pdb
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.genruntimeconfig.cache
+C:\interns-BE\Interns-BE\durga\jwtAuthenmticationinWebApi\jwtAuthenmticationinWebApi\obj\Debug\net6.0\ref\jwtAuthenmticationinWebApi.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.exe
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.deps.json
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.runtimeconfig.json
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\jwtAuthenmticationinWebApi.pdb
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.AssemblyReference.cache
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.AssemblyInfoInputs.cache
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.AssemblyInfo.cs
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.jwtAuthenmticationinWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.jwtAuthenmticationinWebApi.props
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.jwtAuthenmticationinWebApi.props
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.jwtAuthenmticationinWebApi.props
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\scopedcss\bundle\jwtAuthenmticationinWebApi.styles.css
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.csproj.CopyComplete
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\refint\jwtAuthenmticationinWebApi.dll
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.pdb
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\jwtAuthenmticationinWebApi.genruntimeconfig.cache
+C:\Users\ShabbirAnsari\Downloads\test\jwtAuthenmticationinWebApi\obj\Debug\net6.0\ref\jwtAuthenmticationinWebApi.dll

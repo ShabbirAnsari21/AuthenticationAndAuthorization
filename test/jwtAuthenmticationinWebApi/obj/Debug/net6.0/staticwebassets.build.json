@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5/+q7OuH/HV/k+jtYhwyj0C1CxCGqquxvHuBzKrtH5k=",
+  "Source": "jwtAuthenmticationinWebApi",
+  "BasePath": "_content/jwtAuthenmticationinWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
